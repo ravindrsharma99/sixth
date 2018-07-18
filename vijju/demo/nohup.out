@@ -1,0 +1,8 @@
+PHP Warning:  socket_bind(): unable to bind address [98]: Address already in use in /var/www/html/vijju/demo/server2.php on line 15
+PHP Warning:  socket_bind(): unable to bind address [98]: Address already in use in /var/www/html/vijju/demo/server2.php on line 15
+PHP Warning:  socket_bind(): unable to bind address [98]: Address already in use in /var/www/html/vijju/demo/server2.php on line 15
+PHP Warning:  socket_getpeername(): unable to retrieve peer name [107]: Transport endpoint is not connected in /var/www/html/vijju/demo/server2.php on line 73
+PHP Warning:  socket_getpeername(): unable to retrieve peer name [107]: Transport endpoint is not connected in /var/www/html/vijju/demo/server2.php on line 73
+PHP Warning:  socket_bind(): unable to bind address [98]: Address already in use in /var/www/html/vijju/demo/server2.php on line 16
+Could not open input file: server1.php
+PHP Warning:  socket_bind(): unable to bind address [98]: Address already in use in /var/www/html/vijju/demo/server.php on line 18
